@@ -1,1 +1,1 @@
-t app video_settings 3040x3040 22 170
+t app video_settings 1920x1080 96 170
